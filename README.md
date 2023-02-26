@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+## Flutter Masterclass by Flutterando
+
+Lesson: The creation of a simple IMC Calculator using Dart.
