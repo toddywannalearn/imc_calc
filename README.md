@@ -1,3 +1,3 @@
-## Flutter Masterclass by Flutterando
+# IMC Calc
 
-Lesson: The creation of a simple IMC Calculator using Dart.
+This application implements an IMC Calculator using Dart.
